@@ -1,0 +1,6 @@
+- "git config --global http.sslVerify false" -> Disable SSL certificate validation at a global level;
+- "git clone  [URL]" -> Clonar um repositório do GitHub para uma pasta do Windows;
+- "git status" -> Verificar se está tudo certo com o repositório local;
+- "git add ." ou "git add -A" -> Adicionar todos os arquivos do repositório local no controle de versionamento;
+- "git commit -m "mensagem"" -> Dar um "commit" local com uma mensagem;
+- "git push origin main" ->  Enviar todos os commits que temos localmente para a nuvem;
